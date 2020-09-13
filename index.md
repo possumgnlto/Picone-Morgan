@@ -1,6 +1,6 @@
 ## Welcome to Picone & Morgan Enterprises
 
-We're so pleased you're here.
+We're so pleased you're here. I'm sure you've <a href="/docs/the-news.pdf">the news</a>.
 
 —
 
