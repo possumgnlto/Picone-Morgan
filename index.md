@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Picone & Morgan Enterprises
 
 You can use the [editor on GitHub](https://github.com/possumgnlto/Picone-Morgan-2020-AGM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
